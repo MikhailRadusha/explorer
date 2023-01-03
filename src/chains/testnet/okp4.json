@@ -1,7 +1,7 @@
 {
     "chain_name": "OKP4 testnet",
-    "api": ["https://api.testnet.okp4.network"],
-    "rpc": ["https://api.testnet.okp4.network:443/rpc"],
+    "api": ["https://185.182.184.200:1317"],
+    "rpc": ["https://185.182.184.200:26617"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
